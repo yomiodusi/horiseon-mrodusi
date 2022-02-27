@@ -1,6 +1,6 @@
 Project Completed by Yomi Odusi
 
-I am a beginner software engineer with zero experience. Always love to learn and love feedback
+I am a beginner software engineer. Always love to learn and love feedback
 
 Decription
 
@@ -11,4 +11,6 @@ The CSS file was updated as well to consolidate and make it more chronological.
 Link to Site - https://yomiodusi.github.io/horiseon-mrodusi/
 
 &copy; 2019 Horiseon Social Solution Services, Inc.
+
+
 
